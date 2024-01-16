@@ -3,13 +3,13 @@
 
 ## Sistemas Operativos: 🐧
 
-Implementación de una Shell, un Scheduler y un FileSystem FUSE. (C y Assembly)
+Implementación de una Shell, un Scheduler y un FileSystem FUSE para un sistema operativo Unix-Like. (C y Assembly)
 
 [Repositorio SISOP](https://github.com/pgallino/SISOP)
 
 ## Taller de Programación I: 🛜🧶
 
-Implementación de un juego online. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
+Implementación de un juego online de Arquitectura multithreading. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
 
 [Juego Arquitectura multithreading](https://github.com/pgallino/Taller1-TP-Left4Dead)
 
@@ -33,7 +33,7 @@ Análisis de Datos: Pandas - Spark - visualización de datos - NLP. (python).
 
 Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa ficticia PSA. 
 
-Inicialmente se descubrió el producto a desarrollar mediante técnicas de la Ingeniería de requisitos: Backlog (Historias de usuario y criterios de aceptación) - Modelo de Dominio - Modelo C4 - Modelo de Datos - Organigrama - Onion Model - Minutas - Matriz de trazabilidad - Prototipos - Entrevistas.
+Inicialmente se descubrió el producto a desarrollar mediante técnicas de la Ingeniería de requisitos: Entrevistas - Backlog (Historias de usuario y criterios de aceptación) - Modelo de Dominio - Modelo C4 - Modelo de Datos - Organigrama - Onion Model - Minutas - Matriz de trazabilidad - Prototipos.
 
 Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot - Gherkin.
 
@@ -54,23 +54,25 @@ Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del mae
 
 Programación orientada a objetos. (Java y Smalltalk) 
 
-Juego siguiendo los lineamientos de la POO.
+Juego siguiendo los lineamientos de POO.
 
 [Juego POO](https://github.com/pgallino/GPS-1C2022)
 
 ## Algoritmos & Programación II: 🌲
 
-Tipos de dato Abstracto (TDA): Árboles - hash - Grafo - Heap.
+Implementación de tipos de dato Abstracto (TDA): Árboles - hash - Grafo - Heap - lista - pila - cola. 
+
+Recursividad - Fuerza bruta - Manejo de memoria (C y Python) - Algoritmos sobre grafos.
 
 [Repositorio Algo2](https://github.com/pgallino/AlGO-2)
 
 ## Algoritmos & Programación I: ⚡
 
-Minijuego Pokedex (en python).
+Minijuego Pokedex (python).
 
 [Pokedex](https://github.com/pgallino/Pokedex-1C2021)
 
-Minijuego Batallas Pokemon.
+Minijuego Batallas Pokemon. (python)
 
 [Batallas Pokemon](https://github.com/pgallino/Pokemon-Battles-1C2021)
 
