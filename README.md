@@ -1,5 +1,5 @@
 # Hola!👋 
-## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingenieria Universidad de Buenos Aires (FIUBA) 📚
+## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingenieria de la UBA (FIUBA) 📚
 
 ## Sistemas Operativos: 🐧
 
@@ -52,9 +52,9 @@ Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del mae
 
 ## Algoritmos & Programación III: 👾
 
-Programación orientada a objetos.
+Programación orientada a objetos. (Java y Smalltalk) 
 
-Juego siguiendo los lineamientos de la POO (Java).
+Juego siguiendo los lineamientos de la POO.
 
 [Juego POO](https://github.com/pgallino/GPS-1C2022)
 
