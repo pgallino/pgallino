@@ -54,7 +54,7 @@ Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del mae
 
 Programación orientada a objetos. (Java y Smalltalk) 
 
-Juego siguiendo los lineamientos de POO.
+MiniJuego siguiendo los lineamientos de POO.
 
 [Juego POO](https://github.com/pgallino/GPS-1C2022)
 
