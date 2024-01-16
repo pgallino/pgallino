@@ -1,13 +1,13 @@
 # Hola!👋 
 ## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
-## Sistemas Operativos: 🐧
+## Sistemas Operativos 🐧
 
 Implementación de una Shell, un Scheduler y un FileSystem FUSE para un sistema operativo Unix-Like. (C y Assembly)
 
 [Repositorio SISOP](https://github.com/pgallino/SISOP)
 
-## Taller de Programación I: 🛜🧶
+## Taller de Programación I 🛜🧶
 
 Implementación de un juego online de Arquitectura multithreading. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
 
@@ -17,7 +17,7 @@ Trabajos individuales sobre Sockets y Threads. Cliente-Servidor. (C++).
 
 [Tps Individuales: Sockets & Threads](https://github.com/pgallino/Taller-De-Programacion-1C2023)
 
-## Ciencia de Datos: 💻🧪
+## Ciencia de Datos 💻🧪
 
 Machine learning: Clasificación y Regresión - Métricas y Errores - Linear y logistic regression, KNN, Árboles, Random Forest y XGBoost - Feature Engineering. (python scikit-learn)
 
@@ -29,7 +29,7 @@ Análisis de Datos: Pandas - Spark - visualización de datos - NLP. (python).
 
 [Análisis de Datos](https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023)
 
-## Análisis de la Información: 📄👥
+## Análisis de la Información 📄👥
 
 Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa ficticia PSA. 
 
@@ -45,12 +45,12 @@ Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot
 
 [sitio web PSA](https://front-psa.vercel.app/home)
 
-## Teoría de Algoritmos: 🧩🧠
+## Teoría de Algoritmos 🧩🧠
 Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del maestro - Programación dinámica - Flujo en redes - Reducciones - Certificados - Problemas NP completos - Algoritmos randomizados - Algoritmos de aproximación - Análisis amortizado - Computabilidad.
 
 [Repositorio Trabajos TDA](https://github.com/pgallino/Teoria-De-Algoritmos)
 
-## Algoritmos & Programación III: 👾
+## Algoritmos & Programación III 👾
 
 Programación orientada a objetos. (Java y Smalltalk) 
 
@@ -58,7 +58,7 @@ Juego siguiendo los lineamientos de POO.
 
 [Juego POO](https://github.com/pgallino/GPS-1C2022)
 
-## Algoritmos & Programación II: 🌲
+## Algoritmos & Programación II 🌲
 
 Implementación de tipos de dato Abstracto (TDA): Árboles - hash - Grafo - Heap - lista - pila - cola. 
 
@@ -66,7 +66,7 @@ Recursividad - Fuerza bruta - Manejo de memoria (C y Python) - Algoritmos sobre 
 
 [Repositorio Algo2](https://github.com/pgallino/AlGO-2)
 
-## Algoritmos & Programación I: ⚡
+## Algoritmos & Programación I ⚡
 
 Minijuego Pokedex (python).
 
