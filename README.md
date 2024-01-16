@@ -1,25 +1,58 @@
 # Hola!👋 
 Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingenieria Universidad de Buenos Aires (FIUBA) 📚
 
-## Repositorios 
+# Repositorios 
 
-Repositorio de SISOP: https://github.com/pgallino/SISOP
---------------------------------------
-Repositorio de Taller grupal: https://github.com/pgallino/Taller1-TP-Left4Dead
-------------------------------------
-Repo taller individual: https://github.com/pgallino/Taller-De-Programacion-1C2023
------------------------------------
-Machine learning: https://github.com/pgallino/MACHINE-LEARNING-DATOS-1C2023
------------------------------------
-Ciencia de datos: https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023
------------------------------------
-Minijuego GPS Algoritmos III: https://github.com/pgallino/GPS-1C2022
------------------------------------
-Pokedex Algoritmos I: https://github.com/pgallino/Pokedex-1C2021
------------------------------------
-Pokemon battles Algoritmos I: https://github.com/pgallino/Pokemon-Battles-1C2021
--------------------------------------
-Algoritmos II: https://github.com/pgallino/AlGO-2
+## Sistemas Operativos: 
+https://github.com/pgallino/SISOP
+
+Implementación de una Shell, un Scheduler y un FileSystem FUSE. (en C y Assembly)
+
+## Taller de Programación I:
+
+Implementación de un juego online. Servidor y múltiples clientes mediante sockets y threads. (en C++)
+
+https://github.com/pgallino/Taller1-TP-Left4Dead
+
+Trabajos individuales sobre Sockets y Threads. Cliente-Servidor. (en C++)
+
+https://github.com/pgallino/Taller-De-Programacion-1C2023
+
+## Ciencia de Datos:
+
+Machine learning: modelos, feature engineering, etc. (en Python)
+
+Modelo para predecir si un hongo es venenoso o no 
+
+https://github.com/pgallino/MACHINE-LEARNING-DATOS-1C2023
+
+Análisis de Datos: Pandas, Spark, visualización de datos, etc. (en python)
+
+https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023
+
+## Algoritmos & Programación III: 
+
+Programación orientada a objetos
+
+juego siguiendo POO (en Java)
+
+https://github.com/pgallino/GPS-1C2022
+
+## Algoritmos & Programación II: 
+
+Tipos de dato Abstracto (TDA), Árboles, hash, Grafo, Heap, etc.
+
+https://github.com/pgallino/AlGO-2
+
+## Algoritmos & Programación I: 
+
+Minijuego Pokedex (en python) 
+
+https://github.com/pgallino/Pokedex-1C2021
+
+minijuego Batallas Pokemon
+
+https://github.com/pgallino/Pokemon-Battles-1C2021
 
 <!--
 **pgallino/pgallino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
