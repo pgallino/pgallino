@@ -29,7 +29,7 @@ Análisis de Datos: Pandas - Spark - visualización de datos - NLP. (python).
 
 [Análisis de Datos](https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023)
 
-## Análisis de la Información: 📄
+## Análisis de la Información: 📄👥
 
 Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa ficticia PSA. 
 
@@ -46,6 +46,9 @@ Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot
 [sitio web PSA](https://front-psa.vercel.app/home)
 
 ## Teoría de Algoritmos: 🧩🧠
+Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del maestro - Programación dinámica - Flujo en redes - Reducciones - Certificados - Problemas NP completos - Algoritmos randomizados - Algoritmos de aproximación - Análisis amortizado - Computabilidad.
+
+[Repositorio Trabajos TDA](https://github.com/pgallino/Teoria-De-Algoritmos)
 
 ## Algoritmos & Programación III: 👾
 
