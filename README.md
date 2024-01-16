@@ -1,5 +1,5 @@
 # Hola!👋 
-## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingenieria de la UBA (FIUBA) 📚
+## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
 ## Sistemas Operativos: 🐧
 
