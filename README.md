@@ -45,6 +45,8 @@ Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot
 
 [sitio web PSA](https://front-psa.vercel.app/home)
 
+## Teoría de Algoritmos: 🧩🧠
+
 ## Algoritmos & Programación III: 👾
 
 Programación orientada a objetos.
