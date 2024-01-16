@@ -29,6 +29,27 @@ Análisis de Datos: Pandas, Spark, visualización de datos, etc. (en python).
 
 https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023
 
+## Análisis de la Información: 📄
+
+Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa ficticia PSA
+
+API-REST, React-js, TailWindcss, Java, SpringBoot, Fl0, Render, Vercel
+
+Back-End:
+
+https://github.com/pgallino/Soporte-API-REST-Backend 
+
+https://github.com/Sando-dev/back-psa
+
+
+Front-End: 
+
+https://github.com/gcaldev/front-psa
+
+Sitio:
+
+https://front-psa.vercel.app/home
+
 ## Algoritmos & Programación III: 👾
 
 Programación orientada a objetos.
