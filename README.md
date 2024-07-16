@@ -1,13 +1,21 @@
 # Hola!👋 
 ## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
-## REDES 🛜
+## Técnicas de Programación Concurrente I 🧵
+
+TP1: Procesamiento de archivos de forma concurrente mediante Fork-Join.
+
+TP2: Implementación de un sistema distribuido aplicando técnicas de concurrencia distribuida. (Rust)
+
+[Repositorio Concurrente](https://github.com/pgallino/Programacion-Concurrente)
+
+## Redes 🛜
 
 TP1 - Reliable Data Transfer: Desarrollo de una aplicación cliente-servidor que garantiza la transferencia *fiable* de archivos sobre la red.
 
 TP2 - Software-Defined Networking: Implementación de un *firewall* a nivel de capa de enlace. (python)
 
-[Repositorio REDES](https://github.com/pgallino/REDES)
+[Repositorio Redes](https://github.com/pgallino/REDES)
 
 ## Sistemas Operativos 🐧
 
