@@ -1,21 +1,33 @@
 # Hola!👋 
 ## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
+## REDES 🛜
+
+TP1 - Reliable Data Transfer: Desarrollo de una aplicación cliente-servidor que garantiza la transferencia *fiable* de archivos sobre la red.
+
+TP2 - Software-Defined Networking: Implementación de un *firewall* a nivel de capa de enlace. (python)
+
+[Repositorio REDES](https://github.com/pgallino/REDES)
+
 ## Sistemas Operativos 🐧
 
-Implementación de una Shell, un Scheduler y un FileSystem FUSE para un sistema operativo Unix-Like. (C y Assembly)
+TP1: Implementación de una Shell.
+
+TP2: Implementación de un Scheduler.
+
+TP3: Implementación de un FileSystem FUSE para un sistema operativo Unix-Like. (C y Assembly)
 
 [Repositorio SISOP](https://github.com/pgallino/SISOP)
 
-## Taller de Programación I 🛜🧶
+## Taller de Programación I 🧶
 
-Implementación de un juego online de Arquitectura multithreading. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
+Implementación de un juego online de Arquitectura multi-threading. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
 
 [Juego Arquitectura multithreading](https://github.com/pgallino/Taller1-TP-Left4Dead)
 
-Trabajos individuales sobre Sockets y Threads. Cliente-Servidor. (C++).
+Trabajos Prácticos sobre Sockets y Threads. Cliente-Servidor. (C++).
 
-[Tps Individuales: Sockets & Threads](https://github.com/pgallino/Taller-De-Programacion-1C2023)
+[Tps: Sockets & Threads](https://github.com/pgallino/Taller-De-Programacion-1C2023)
 
 ## Ciencia de Datos 💻🧪
 
