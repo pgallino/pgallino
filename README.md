@@ -49,6 +49,12 @@ Análisis de Datos: Pandas - Spark - visualización de datos - NLP. (python).
 
 [Análisis de Datos](https://github.com/pgallino/PANDAS-SPARK-DATOS-1C2023)
 
+## Aprendizaje Automático 🤖
+
+Trabajo práctico: Modelo para predecir si un paciente es fumador o no.
+
+[Machine learning: Fumador o no.](https://github.com/pgallino/Aprendizaje-Automatico)
+
 ## Análisis de la Información 📄👥
 
 Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa ficticia PSA. 
