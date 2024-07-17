@@ -9,7 +9,7 @@ TP2: Implementación de un sistema distribuido aplicando técnicas de concurrenc
 
 [Repositorio Concurrente](https://github.com/pgallino/Programacion-Concurrente)
 
-## Redes 🛜
+## Redes 🛜🌐
 
 TP1 - Reliable Data Transfer: Desarrollo de una aplicación cliente-servidor que garantiza la transferencia *fiable* de archivos sobre la red.
 
@@ -61,7 +61,7 @@ Desarrollo de un sistema de gestión web de proyectos y tickets para una empresa
 
 Inicialmente se descubrió el producto a desarrollar mediante técnicas de la Ingeniería de requisitos: Entrevistas - Backlog (Historias de usuario y criterios de aceptación) - Modelo de Dominio - Modelo C4 - Modelo de Datos - Organigrama - Onion Model - Minutas - Matriz de trazabilidad - Prototipos.
 
-Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot - Gherkin.
+Finalmente se implementó utilizando: API-REST - React-js - TailWindcss - Java - SpringBoot - Gherkin.
 
 [Back-End módulo soporte](https://github.com/pgallino/Soporte-API-REST-Backend)
 
@@ -71,6 +71,20 @@ Finalmente se implementó: API-REST - React-js - TailWindcss - Java - SpringBoot
 
 [sitio web PSA](https://front-psa.vercel.app/home)
 
+## Gestión del Desarrollo de Sistemas Informáticos 🗂️
+
+Desarrollo de App similar a splitwise con el fin de aplicar técnicas de gestión del desarrollo de sistemas informáticos.
+
+Modelos en etapas, iterativos, incrementales, ágiles y de flujo continuo.
+Procesos clásicos de la administración de proyectos: gestión de alcance, tiempos, costos y calidad.
+
+[Front-End](https://github.com/Manuel-Pol/GastandoAndo-GDSI)
+
+[Documentos de Gestión](https://drive.google.com/drive/folders/1gzjWJ1dfg9RUBsc62_XaZMTIl53W71iK?usp=drive_link)
+
+[Video Presentación](https://drive.google.com/file/d/1C6Mm39lUlGXehQFdnex5_-bRawrbAdJM/view?usp=drive_link)
+
+
 ## Teoría de Algoritmos 🧩🧠
 Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del maestro - Programación dinámica - Flujo en redes - Reducciones - Certificados - Problemas NP completos - Algoritmos randomizados - Algoritmos de aproximación - Análisis amortizado - Computabilidad.
 
@@ -78,7 +92,7 @@ Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del mae
 
 ## Algoritmos & Programación III 👾
 
-Programación orientada a objetos. (Java y Smalltalk) 
+Programación orientada a objetos. (Java - Smalltalk) 
 
 MiniJuego siguiendo los lineamientos de POO.
 
@@ -88,7 +102,7 @@ MiniJuego siguiendo los lineamientos de POO.
 
 Implementación de tipos de dato Abstracto (TDA): Árboles - hash - Grafo - Heap - lista - pila - cola. 
 
-Recursividad - Fuerza bruta - Manejo de memoria (C y Python) - Algoritmos sobre grafos.
+Recursividad - Fuerza bruta - Manejo de memoria - Algoritmos sobre grafos (C - Python)
 
 [Repositorio Algo2](https://github.com/pgallino/AlGO-2)
 
