@@ -1,21 +1,70 @@
 # Hola!👋 
 ## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
+## GEduNet - Trabajo Profesional Final 🌐
+
+Simulador gráfico educativo de redes de computadoras, diseñado para ayudar a estudiantes a comprender conceptos fundamentales de redes de manera interactiva. Permite visualizar el flujo de paquetes y experimentar con escenarios de red, facilitando el aprendizaje práctico.
+
+* Simulación de capas de transporte, red y enlace, con abstracción de otras capas para un enfoque modular.
+* Interfaz gráfica interactiva, optimizada para estudiantes sin experiencia en redes.
+* Aplicación web client-side, desarrollada en TypeScript.
+* Basado en el modelo top-down del libro Computer Networking: A Top-Down Approach.
+
+[App](https://megaredhand.github.io/network-simulator/)
+
+[Repositorio](https://github.com/MegaRedHand/network-simulator)
+
+## Sistemas Distribuidos I 🖧
+
+Sistema distribuido diseñado para procesar y analizar datos de Steam en paralelo. Recibe datasets sobre juegos y reseñas y ejecuta consultas predefinidas, como identificar los juegos con más reseñas positivas o aquellos con mayor tiempo de juego.
+
+* Pipeline distribuido con nodos especializados en filtrado, conteo y unión de datos.
+* Comunicación vía RabbitMQ para coordinar los nodos de procesamiento.
+* Optimizado para entornos de multicomputing, permitiendo escalabilidad horizontal con Docker y Docker Compose.
+* Tolerancia a fallos con réplicas y monitoreo automático mediante Watchdog.
+
+[SteamyAnalytics](https://github.com/pgallino/Distribuidos-TP-Grupal)
+
 ## Técnicas de Programación Concurrente I 🧵
 
-TP1: Procesamiento de archivos de forma concurrente mediante Fork-Join.
+Heladería Robotizada: Sistema distribuido que simula el procesamiento concurrente de pedidos en una heladería automatizada. El sistema está diseñado para ser altamente concurrente y tolerante a fallos, coordinando múltiples robots que preparan pedidos de manera eficiente.
 
-TP2: Implementación de un sistema distribuido aplicando técnicas de concurrencia distribuida. (Rust)
+* Procesamiento concurrente de pedidos mediante múltiples robots trabajando en paralelo.
+* Elección de líder con el algoritmo Bully, permitiendo resiliencia ante fallos y asegurando la continuidad operativa.
+* Modelo centralizado con distribución de carga, optimizando la asignación de pedidos y evitando sobrecarga en la comunicación.
+* Mecanismos de tolerancia a fallos, garantizando que el sistema continúe funcionando incluso si robots o pantallas fallan.
+* Implementación en Rust, aprovechando concurrencia y sincronización eficiente entre procesos.
 
 [Repositorio Concurrente](https://github.com/pgallino/Programacion-Concurrente)
 
-## Redes 🛜🌐
+## Redes 🛜
 
-TP1 - Reliable Data Transfer: Desarrollo de una aplicación cliente-servidor que garantiza la transferencia *fiable* de archivos sobre la red.
+File Transfer: Desarrollo de una aplicación cliente-servidor que garantiza la transferencia fiable de archivos sobre la red utilizando UDP y técnicas de retransmisión.
 
-TP2 - Software-Defined Networking: Implementación de un *firewall* a nivel de capa de enlace. (python)
+* Implementación de un protocolo confiable sobre UDP mediante Stop-And-Wait y Go-Back-N.
+* Arquitectura Cliente-Servidor Multi-thread, permitiendo concurrencia y múltiples clientes simultáneos.
+* Mecanismo de detección y recuperación de pérdida de paquetes.
+* Simulación de condiciones adversas en la red utilizando Comcast para evaluar rendimiento y confiabilidad.
+* Pruebas con Mininet y topologías personalizadas.
 
 [Repositorio Redes](https://github.com/pgallino/REDES)
+
+## Taller de Programación I 🧶
+
+Left4Dead2D: Juego online en C++ con arquitectura cliente-servidor, utilizando sockets y threads.
+
+* Cliente multi-threaded, con hilos independientes para recepción y envío de datos.
+* Servidor concurrente, gestionando múltiples clientes de manera eficiente.
+* Manejo de memoria seguro con RAII, evitando fugas de memoria y asegurando recursos correctamente.
+* Renderizado con SDL2, optimizando gráficos y animaciones.
+
+[Left4Dead2D-repositorio](https://github.com/pgallino/Taller1-TP-Left4Dead)
+
+[Left4Dead2D-gameplay](https://www.youtube.com/watch?v=bAsRP4NCzlE)
+
+Trabajos Prácticos sobre Sockets y Threads. Cliente-Servidor. (C++).
+
+[Tps: Sockets & Threads](https://github.com/pgallino/Taller-De-Programacion-1C2023)
 
 ## Sistemas Operativos 🐧
 
@@ -26,16 +75,6 @@ TP2: Implementación de un Scheduler.
 TP3: Implementación de un FileSystem FUSE para un sistema operativo Unix-Like. (C y Assembly)
 
 [Repositorio SISOP](https://github.com/pgallino/SISOP)
-
-## Taller de Programación I 🧶
-
-Implementación de un juego online de Arquitectura multi-threading. Servidor y múltiples clientes mediante sockets y threads. RAII. (C++)
-
-[Juego Arquitectura multithreading](https://github.com/pgallino/Taller1-TP-Left4Dead)
-
-Trabajos Prácticos sobre Sockets y Threads. Cliente-Servidor. (C++).
-
-[Tps: Sockets & Threads](https://github.com/pgallino/Taller-De-Programacion-1C2023)
 
 ## Ciencia de Datos 💻🧪
 
