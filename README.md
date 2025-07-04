@@ -14,7 +14,7 @@ Simulador gráfico educativo de redes de computadoras, diseñado para ayudar a e
 
 [Repositorio](https://github.com/MegaRedHand/network-simulator)
 
-## Sistemas Distribuidos I 🖧
+## SteamyAnalytics 🖧
 
 Sistema distribuido diseñado para procesar y analizar datos de Steam en paralelo. Recibe datasets sobre juegos y reseñas y ejecuta consultas predefinidas, como identificar los juegos con más reseñas positivas o aquellos con mayor tiempo de juego.
 
@@ -24,6 +24,17 @@ Sistema distribuido diseñado para procesar y analizar datos de Steam en paralel
 * Tolerancia a fallos con réplicas y monitoreo automático mediante Watchdog.
 
 [SteamyAnalytics](https://github.com/pgallino/Distribuidos-TP-Grupal)
+
+## Turnero Médico 🤖🩺
+
+Sistema distribuido para la gestión de turnos médicos, compuesto por una API REST y un bot de Telegram como interfaz.
+
+* Bot de Telegram en Ruby que permite a pacientes solicitar, cancelar y consultar turnos médicos de forma intuitiva.
+* API en Ruby que gestiona usuarios, médicos, agendas, turnos y validaciones de disponibilidad.
+
+[turnero-bot-telegram](https://github.com/pgallino/turnero-bot-telegram)
+
+[tunero-api](https://github.com/pgallino/turnero-api)
 
 ## Técnicas de Programación Concurrente I 🧵
 
