@@ -1,5 +1,5 @@
 # Hola!👋 
-## Soy Pedro Gallino estudiante de Ingeniería informática en la Facultad de Ingeniería de la UBA (FIUBA) 📚
+## Soy Pedro Gallino Ingeniero informático graduado en la Facultad de Ingeniería de la UBA (FIUBA) 📚
 
 ## GEduNet - Trabajo Profesional Final 🌐
 
