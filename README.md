@@ -14,6 +14,16 @@ Simulador gráfico educativo de redes de computadoras, diseñado para ayudar a e
 
 [Repositorio](https://github.com/MegaRedHand/network-simulator)
 
+## Microservicio Backend: Arquitectura, Calidad y Despliegue Multi-Cloud ⚡
+
+* Diseño e implementación de una API REST (FastAPI/Python) aplicando arquitectura Hexagonal (ports & adapters).
+* Implementación de Testing Unitario y Tests de Aceptación (BDD), utilizando herramientas como Cucumber para validar la lógica de negocio.
+* Entorno de desarrollo estandarizado con Docker y Docker Compose. 
+* Gestión de despliegue automatizada (CI/CD con GitHub Actions) para AWS y Render.
+* Manejo de la persistencia en Neon DB, incluyendo la gestión de migraciones de bases de datos con alembic.
+
+[Microservicio Backend](https://github.com/pgallino/backend-base)
+
 ## SteamyAnalytics 🖧
 
 Sistema distribuido diseñado para procesar y analizar datos de Steam en paralelo. Recibe datasets sobre juegos y reseñas y ejecuta consultas predefinidas, como identificar los juegos con más reseñas positivas o aquellos con mayor tiempo de juego.
@@ -27,7 +37,7 @@ Sistema distribuido diseñado para procesar y analizar datos de Steam en paralel
 
 ## Turnero Médico 🤖🩺
 
-Sistema distribuido para la gestión de turnos médicos, compuesto por una API REST y un bot de Telegram como interfaz.
+Sistema para la gestión de turnos médicos, compuesto por una API REST y un bot de Telegram como interfaz.
 
 * Bot de Telegram en Ruby que permite a pacientes solicitar, cancelar y consultar turnos médicos de forma intuitiva.
 * API en Ruby que gestiona usuarios, médicos, agendas, turnos y validaciones de disponibilidad.
