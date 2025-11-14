@@ -14,7 +14,7 @@ Simulador gráfico educativo de redes de computadoras, diseñado para ayudar a e
 
 [Repositorio](https://github.com/MegaRedHand/network-simulator)
 
-## Microservicio Backend: Arquitectura, Calidad y Despliegue Multi-Cloud ⚡
+## Microservicio Backend: Arquitectura, Calidad y Despliegue⚡
 
 * Diseño e implementación de una API REST (FastAPI/Python) aplicando arquitectura Hexagonal (ports & adapters).
 * Implementación de Testing Unitario y Tests de Aceptación (BDD), utilizando herramientas como Cucumber para validar la lógica de negocio.
